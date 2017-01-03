@@ -1,0 +1,16 @@
+{
+    "name": "tankist/yii-extensions",
+    "description": "Yii 1.x extensions",
+    "type": "library",
+    "require": {
+        "yiisoft/yii": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Victor Gryshko",
+            "email": "stalin1945@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

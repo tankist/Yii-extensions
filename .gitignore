@@ -8,3 +8,7 @@ nbproject
 .project
 
 phperrors.log
+
+vendor/
+
+composer.lock
