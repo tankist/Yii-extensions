@@ -12,5 +12,14 @@
             "email": "stalin1945@gmail.com"
         }
     ],
+    "autoload": {
+        "classmap": [
+            "behaviors",
+            "extensions",
+            "helpers",
+            "validators",
+            "widgets"
+        ]
+    },
     "minimum-stability": "dev"
 }
